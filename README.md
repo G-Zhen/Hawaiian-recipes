@@ -1,4 +1,4 @@
-# odin-recipes
+# Hawaiian-recipes
 TOP project: Recipe website
 
 Goals:
